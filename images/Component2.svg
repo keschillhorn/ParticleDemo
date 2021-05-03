@@ -1,0 +1,17 @@
+<svg id="Component_2_1" data-name="Component 2 – 1" xmlns="http://www.w3.org/2000/svg" width="500" height="396" viewBox="0 0 500 396">
+  <g id="Rectangle_7" data-name="Rectangle 7" fill="#007af3" stroke="#707070" stroke-width="1">
+    <rect width="500" height="396" stroke="none"/>
+    <rect x="0.5" y="0.5" width="499" height="395" fill="none"/>
+  </g>
+  <g id="Rectangle_8" data-name="Rectangle 8" transform="translate(10 10)" fill="#fff" stroke="#707070" stroke-width="1">
+    <rect width="480" height="376" stroke="none"/>
+    <rect x="0.5" y="0.5" width="479" height="375" fill="none"/>
+  </g>
+  <g id="Rectangle_9" data-name="Rectangle 9" transform="translate(10 10)" fill="rgba(0,122,243,0.53)" stroke="#707070" stroke-width="1">
+    <rect width="480" height="67" stroke="none"/>
+    <rect x="0.5" y="0.5" width="479" height="66" fill="none"/>
+  </g>
+  <line id="Line_1" data-name="Line 1" x2="86" y2="76" transform="translate(51.5 117.25)" fill="none" stroke="#707070" stroke-width="6"/>
+  <line id="Line_2" data-name="Line 2" x2="86" y2="76" transform="translate(137.5 192.75) rotate(90)" fill="none" stroke="#707070" stroke-width="6"/>
+  <line id="Line_3" data-name="Line 3" x2="165" transform="translate(175.5 278.5)" fill="none" stroke="#707070" stroke-width="6"/>
+</svg>
